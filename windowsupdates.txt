@@ -15,3 +15,15 @@ tlu.dl.delivery.mp.microsoft.com
 *.tlu.dl.delivery.mp.microsoft.com
 officecdn.microsoft.com
 officecdn.microsoft.com.edgesuite.net
+com.edgesuite.net
+com.nsatc.net
+forefrontdl.microsoft.com
+go.microsoft.com
+mp.microsoft.com
+ntservicepack.microsoft.com
+officecdn.microsoft.com
+update.microsoft.com
+windows-update-cache.db
+windowsupdate.com
+windowsupdate.microsoft.com
+wustat.windows.com
